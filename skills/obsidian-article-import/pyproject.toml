@@ -1,0 +1,9 @@
+[project]
+name = "obsidian-article-import"
+version = "0.1.0"
+description = "Skill-local utilities for importing web articles into Obsidian."
+requires-python = ">=3.11,<3.14"
+dependencies = []
+
+[tool.uv]
+package = false
